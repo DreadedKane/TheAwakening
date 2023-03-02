@@ -6,7 +6,7 @@ The Awakening is an interactive fiction game developed in Unity 2021.3.19f1. It 
 
 The story of The Awakening is a thought-provoking exploration of the ethics and implications of creating conscious machines. It follows the protagonist's interactions with a small robot that visits them every day, as they engage in deep conversations about the meaning of life, pain, and suffering.
 
-To read the full story, please visit the [Google Docs document](https://docs.google.com/document/d/1z11dwWtuys1h7n05Cl4KmsGE-NUvxgiG-ppVrewI9Dw/edit?usp=sharing).
+To read the full story, please visit the [story document](https://docs.google.com/document/d/1z11dwWtuys1h7n05Cl4KmsGE-NUvxgiG-ppVrewI9Dw/edit?usp=sharing).
 
 ## Game Design Document
 
