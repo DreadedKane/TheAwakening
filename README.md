@@ -27,3 +27,9 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 ## License
 
 The Awakening is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+## Credits
+
+### 3D Models
+
+- Apartment model by German Carrero.
